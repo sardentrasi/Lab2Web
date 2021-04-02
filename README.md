@@ -4,7 +4,7 @@ Fajar Arif Riyanto
 311910666  
 TI 19 B2
 
-1. Membuat HTML Dasar pada VS COde  
+1. Membuat HTML Dasar pada VS Code  
    ![gambar1](assets/1.png)  
 
 2. Mendeklarasikan CSS Internal didalam file html dan berikut hasil nya
